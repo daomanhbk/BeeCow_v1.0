@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="version" value="76.0.3809.68"/>
+    <parameter name="url" value="https://www.beecow.com/"/>
+    <classes>
+      <class name="BeeCow.BeeCow.CreateProductScript">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="TC_034"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- BeeCow.BeeCow.CreateProductScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

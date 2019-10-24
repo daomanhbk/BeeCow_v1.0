@@ -1,0 +1,33 @@
+{
+	"LogInPage": {
+		"url": "https://www.beecow.com/",
+		"phoneErrorMessageMsg": "Số điện thoại không đúng",
+		"emailErrorMessageMsg": "Email không đúng",
+		"logInErrorMessageMsG": "Hãy nhập email / số điện thoại và mật khẩu",
+		"toiThieu6KiTuMsg": "Tối thiểu 6 ký tự",
+		"saiEmailSoDTHoacMatKhauMsg": "Sai email / số điện thoại hoặc mật khẩu",
+		"coChutVanDeXayRaMsg": "Có chút vấn đề xảy ra. Hãy thử lại.",
+		"hayChonHinhAnhChoSanPham": "Hãy chọn hình ảnh cho sản phẩm"
+	},
+	"CreateProductPage": {
+		"descriptionProduct": "Description product",
+		"quantity": "11",
+		"price": "12",
+		"weight": "2000",
+		"width": "49",
+		"length": "29",
+		"height": "49",
+		"hayChonHinhAnhChoSanPhamMsg": "Hãy chọn hình ảnh cho sản phẩm",
+		"hayDienTenSanPhamMsg": "Hãy điền tên sản phẩm",
+		"hayChonDanhMucMsg": "Hãy chọn danh mục.",
+		"hayMoTaSanPhamMsg": "Hãy mô tả sản phẩm.",
+		"nhapSoLuongMsg": "Nhập số lượng.",
+		"hayDienGiaMsg": "Hãy điền giá.",
+		"hayDienCanNangSanPhamMsg": "Hãy điền cân nặng sản phẩm.",
+		"canNangTu50gDen1000gMsg": "Cân nặng từ 50g đến 10000g.",
+		"batBuocMsg": "Bắt buộc",
+		"tu1cmToi50cmMsg": "Từ 1cm tới 50cm",
+		"tu1cmToi30cmMsg": "Từ 1cm tới 30cm",
+		"banDaDangThanhCongSanPhamNayMsg": "Bạn đã đăng thành công sản phẩm này"
+	}
+}
